@@ -16,7 +16,7 @@
 //
 //  Description:   A program that copies a the contents of one file to a destination
 //                 file. The program prompts a user for the paths of the source and
-//				   destination files.
+//                 destination files.
 //
 //********************************************************************
 
@@ -122,7 +122,7 @@ public class FileCopier
     //  Method:       isReadablePath (Non Static)
     // 
     //  Description:  Validates that a file is readable or updates the
-	//				  error message if not.
+	//                error message if not.
     //
     //  Parameters:   String
     //
@@ -161,8 +161,8 @@ public class FileCopier
     //  Method:       getReadableFile (Non Static)
     // 
     //  Description:  Attempts to get a readable file path from the user
-	//				  until successful or user chooses to quit.
-	//				  Reports the error if unsuccessful.
+	//                until successful or user chooses to quit.
+	//                Reports the error if unsuccessful.
     //
     //  Parameters:   None
     //
@@ -202,7 +202,7 @@ public class FileCopier
     //  Method:       isWritable (Non Static)
     // 
     //  Description:  Validates that a file is writable or updates the 
-	//				  error message if not.
+	//                error message if not.
     //
     //  Parameters:   String
     //
@@ -239,8 +239,8 @@ public class FileCopier
     //  Method:       getWritableFile (Non Static)
     // 
     //  Description:  Attempts to get a writable file path from the user
-	//				  until successful or user chooses to quit.
-	//				  Reports the error if unsuccessful.
+	//                until successful or user chooses to quit.
+	//                Reports the error if unsuccessful.
     //
     //  Parameters:   None
     //
@@ -346,8 +346,8 @@ public class FileCopier
     //  Method:       copyFile (Non Static)
     // 
     //  Description:  Copies the contents of a readable file to a writable
-	//				  file. Actions performed can be either write, overwrite,
-	//				  or append. Ensures scanner is opened and closed as needed.
+	//                file. Actions performed can be either write, overwrite,
+	//                or append. Ensures scanner is opened and closed as needed.
     //
     //  Parameters:   None
     //
@@ -437,7 +437,7 @@ public class FileCopier
     //  Method:       appendOrOverwite (Non Static)
     // 
     //  Description:  Prompts the user to select append to or overwrite 
-	//				  a file. 
+	//                a file. 
     //
     //  Parameters:   None
     //
