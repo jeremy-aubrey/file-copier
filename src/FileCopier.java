@@ -2,17 +2,7 @@
 //
 //  Author:        Jeremy Aubrey
 //
-//  Program #:     1
-//
 //  File Name:     FileCopier.java
-//
-//  Course:        COSC-4302 Operating Systems
-//
-//  Due Date:      02/03/2022
-//
-//  Instructor:    Fred Kumi 
-//
-//  Chapter:       Chapter 2
 //
 //  Description:   A program that copies a the contents of one file to a destination
 //                 file. The program prompts a user for the paths of the source and
